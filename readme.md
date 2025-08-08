@@ -1,0 +1,1 @@
+Desková hra Obsazování soustav - pravidla a stl soubory pro tisk na 3D tiskárně.
